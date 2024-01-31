@@ -25,7 +25,7 @@ const ContactList: React.FC<ContactListProps> = ({
   };
 
   return (
-    <div className="flex flex-col gap-4 bg-white px-5 py-6 w-[640px] max-h-[360px] rounded-lg">
+    <div className="flex flex-col gap-4 bg-white px-5 py-6 w-[640px] max-h-[560px] rounded-lg">
       <div className="flex gap-2 items-center">
         <svg
           xmlns="http://www.w3.org/2000/svg"
