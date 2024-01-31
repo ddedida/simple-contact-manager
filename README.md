@@ -31,3 +31,9 @@ To get a local copy up and running follow these simple example steps.
 - After adding contacts:
 
 ![after](https://cdn.discordapp.com/attachments/702797283795927123/1202198339094061137/Screenshot_115.png?ex=65cc9573&is=65ba2073&hm=80f10494b4b7f67c6e32a5ac95a8a9324f0db543af161f1a219e61c33417448d&)
+
+---
+
+```js
+console.log("Thank you!");
+```
