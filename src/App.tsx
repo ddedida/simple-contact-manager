@@ -37,7 +37,7 @@ const App = () => {
   return (
     <>
       <Header></Header>
-      <div className="mt-8 container mx-auto flex items-start gap-10">
+      <div className="mt-8 container mx-auto flex items-start justify-center gap-10">
         <AddContact onData={handleContact} />
         <ContactList contacts={contacts} getContactId={removeContactHandler} />
       </div>
